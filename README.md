@@ -1,1 +1,2 @@
 # Hotel-Booking-Dashboard-Project-
+This project analyzes e-commerce sales data to understand revenue trends, customer purchasing behavior, and product category performance. Using data analysis techniques, the project tracks monthly revenue and seasonal patterns, calculates key business metrics such as Average Order Value (AOV), and identifies top revenue-generating product categories. Data cleaning and validation were performed to improve data quality, enabling accurate insights and supporting data-driven business decision-making.
